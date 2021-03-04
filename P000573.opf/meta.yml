@@ -1,15 +1,16 @@
-id: opecha:P000573
+id: P000573
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG25755
   title: སྙན་ངག་ལས་འཕྲོས་པའི་མཚུངས་སྒྲའི་དཔྱད་པ།
-  volume:
+  author: ''
+  volumes:
     8c935e7da27445ca97e11081448367c8:
       image_group_id: I1KG25757
       title: Volume 1 of snyan ngag las 'phros pa'i mtshungs sgra'i dpyad pa/
       volume_number: 1
       total_pages: 213
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: སྙན་ངག་ལས་འཕྲོས་པའི་མཚུངས་སྒྲའི་དཔྱད་པ།
   author: ''
